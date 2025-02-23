@@ -9,3 +9,29 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.contenedor{
+background-color:black;
+color:white;
+height:90px;
+width:50%;
+font-size:50px;
+text-align: center;
+justify-content: center;
+padding-left:15px;
+display:flex;
+}
+.contenedor div{
+    padding-right: 5px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: #1d222a;
+    margin-right: 10px;
+    width: 4rem;
+    height: 80px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: lightslategray solid 1px;
+}
+
+
